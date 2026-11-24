@@ -1,0 +1,7 @@
+{
+    "model": "HistGradientBoostingRegressor",
+    "MAE": 35.3444231256096,
+    "RMSE": 131.2195583560246,
+    "R2": 0.9839894228933785,
+    "validation_rows": 403565
+}

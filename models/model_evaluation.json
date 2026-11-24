@@ -1,0 +1,9 @@
+{
+    "model": "HistGradientBoostingRegressor",
+    "training_rows": 1614259,
+    "validation_rows": 403565,
+    "number_of_features": 35,
+    "MAE": 35.3444231256096,
+    "RMSE": 131.2195583560246,
+    "R2": 0.9839894228933785
+}

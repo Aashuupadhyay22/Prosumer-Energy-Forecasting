@@ -1,0 +1,22 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large original datasets
+Data/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+# Large processed training data
+Processed_Data/
